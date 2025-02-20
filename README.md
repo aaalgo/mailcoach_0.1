@@ -1,16 +1,16 @@
-Postline 0.1
+Mailcoach 0.1
 ============
 Wei Dong
 wdong@aaalgo.com
 
-This is an early version of Postline used to produce the experimental results
-reported in the Postline paper.
+This is an early version of Mailcoach used to produce the experimental results
+reported in the Mailcoach paper.
 
-[Postline Paper Repository](https://github.com/aaalgo/postline_paper)
+[Mailcoach Paper Repository](https://github.com/aaalgo/mailcoach_paper)
 
 The architecture is very different from the one presented in the paper.
 
-The full Postline system code is available for licensing to collaborators, with
+The full Mailcoach system code is available for licensing to collaborators, with
 trial accounts also offered. Please contact the author if you are
 interested.
 
